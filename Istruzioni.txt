@@ -1,0 +1,91 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: Monofobia_Chiara Giordano.indd
+
+DATA PREPARAZIONE PACCHETTO: 21/07/2025 19:51
+Data di creazione: 21/07/2025
+Data di modifica: 21/07/2025
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: c.giordano19@studenti.unipi.it
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina2
+
+FONT
+4 font usati; 0 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: LinuxLibertineG; Tipo: TrueType, Stato: OK
+- Nome: LinuxLibertineGB; Tipo: TrueType, Stato: OK
+- Nome: LinuxLibertineGI; Tipo: TrueType, Stato: OK
+- Nome: MinionPro-Regular; Tipo: OpenType CFF, Stato: OK
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 71,565; Linee/pollice: 63,245
+- Nome e tipo: Magenta quadricromia; Angolo: 18,434; Linee/pollice: 63,245
+- Nome e tipo: Giallo quadricromia; Angolo: 0,000; Linee/pollice: 66,666
+- Nome e tipo: Nero quadricromia; Angolo: 45,000; Linee/pollice: 70,710
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 5 collegamenti trovati; 0 modificati, 0 mancanti, 0 Non accessibile
+Immagini: 0 incorporati, 5 usano spazio cromatico RGB
+
+
+IMPOSTAZIONI DI STAMPA
+PPD: PDFCreator 0.9.6, (PDFCreator)
+Stampa in corso su: Stampante
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: CMYK composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Subsampling ottimizzato
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: Personalizzate: 135 mm x 210 mm
+Dimensioni carta: 209,903 mm x 297,039 mm
+Orientamento: Verticale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. Monofobia_Chiara Giordano.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 2352K
+2. Monofobia_Chiara Giordano.idml; tipo: Documento InDesign Markup; dimensione: 168K
+3. Monofobia_Chiara Giordano.pdf; tipo: Documento Adobe Acrobat; dimensione: 836K
+4. LinLibertine_R_G.ttf; tipo: Font; dimensione: 2507K
+5. LinLibertine_RB_G.ttf; tipo: Font; dimensione: 2056K
+6. LinLibertine_RI_G.ttf; tipo: Font; dimensione: 2001K
+7. MinionPro-Regular.otf; tipo: Font; dimensione: 213K

@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.24
+%Locale:0x410
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LinuxLibertineGB
+FamilyName:Linux Libertine G
+StyleName:Bold
+FullName:Linux Libertine G Bold
+MenuName:Linux Libertine G
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\OneDrive\Desktop\Cartella Monofobia_Chiara Giordano\Document fonts\LinLibertine_RB_G.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2105948
+FileModTime:1619630058
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Linux Libertine G Bold
+NameArray:0,Win,1,Linux Libertine G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LinuxLibertineGI
+FamilyName:Linux Libertine G
+StyleName:Italic
+FullName:Linux Libertine G Italic
+MenuName:Linux Libertine G
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\user\OneDrive\Desktop\Cartella Monofobia_Chiara Giordano\Document fonts\LinLibertine_RI_G.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2050040
+FileModTime:1619630058
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Linux Libertine G Italic
+NameArray:0,Win,1,Linux Libertine G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LinuxLibertineG
+FamilyName:Linux Libertine G
+StyleName:Regular
+FullName:Linux Libertine G Regular
+MenuName:Linux Libertine G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\OneDrive\Desktop\Cartella Monofobia_Chiara Giordano\Document fonts\LinLibertine_R_G.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2567492
+FileModTime:1619630058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Linux Libertine G Regular
+NameArray:0,Win,1,Linux Libertine G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\OneDrive\Desktop\Cartella Monofobia_Chiara Giordano\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1741884465
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
